@@ -12,7 +12,3 @@ This GitHub organization consists of repositories that serve as a university pro
 - **Profile Management**: Allows users to create and manage their profiles, showcasing their skills, interests, and availability.
 - **Scheduling**: Facilitates scheduling sessions between mentors and mentees.
 - **Notifications**: Sends notifications for bookings and registration.
-
-## Contributors
-
-- [@jonathancalvin](https://github.com/jonathancalvin)
